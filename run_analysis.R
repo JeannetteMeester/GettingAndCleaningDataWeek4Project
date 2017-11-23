@@ -1,6 +1,5 @@
 #You should create one R script called run_analysis.R that does the following.
 
-setwd("C:/Users/Jeannette/Dropbox/Coursera/R/UCI HAR Dataset/")
 library(dplyr)
 library(tidyr)
 
